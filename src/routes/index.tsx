@@ -11,10 +11,15 @@ import Route from './Route'
 
 export default function Routes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path='/' component={Dashboard} isPrivate />
-        <Route exact path='/update-profile' component={UpdateProfile} isPrivate />
+        <Route
+          exact
+          path='/update-profile'
+          component={UpdateProfile}
+          isPrivate
+        />
         <Route path='/login' component={Login} />
         <Route path='/forgot-password' component={ForgotPassword} />
         <Route path='/signup' component={Signup} />
