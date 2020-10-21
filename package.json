@@ -2,7 +2,7 @@
   "name": "authentication-firebase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://caioquirinomedeiros.github.io/firebase-authentication",
+  "homepage": "https://caioquirinomedeiros.github.io/Firebase-Authentication",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
