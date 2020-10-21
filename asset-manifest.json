@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/firebase-authentication/static/js/main.c6ea0a0b.chunk.js",
-    "main.js.map": "/firebase-authentication/static/js/main.c6ea0a0b.chunk.js.map",
-    "runtime-main.js": "/firebase-authentication/static/js/runtime-main.6471fef5.js",
-    "runtime-main.js.map": "/firebase-authentication/static/js/runtime-main.6471fef5.js.map",
-    "static/css/2.11829350.chunk.css": "/firebase-authentication/static/css/2.11829350.chunk.css",
-    "static/js/2.826cb21f.chunk.js": "/firebase-authentication/static/js/2.826cb21f.chunk.js",
-    "static/js/2.826cb21f.chunk.js.map": "/firebase-authentication/static/js/2.826cb21f.chunk.js.map",
-    "index.html": "/firebase-authentication/index.html",
-    "precache-manifest.6c358393a12a492b581ea350500a637d.js": "/firebase-authentication/precache-manifest.6c358393a12a492b581ea350500a637d.js",
-    "service-worker.js": "/firebase-authentication/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/firebase-authentication/static/css/2.11829350.chunk.css.map",
-    "static/js/2.826cb21f.chunk.js.LICENSE.txt": "/firebase-authentication/static/js/2.826cb21f.chunk.js.LICENSE.txt"
+    "main.js": "/authentication-firebase/static/js/main.f87b5f59.chunk.js",
+    "main.js.map": "/authentication-firebase/static/js/main.f87b5f59.chunk.js.map",
+    "runtime-main.js": "/authentication-firebase/static/js/runtime-main.00d2ff98.js",
+    "runtime-main.js.map": "/authentication-firebase/static/js/runtime-main.00d2ff98.js.map",
+    "static/css/2.11829350.chunk.css": "/authentication-firebase/static/css/2.11829350.chunk.css",
+    "static/js/2.898a3ed2.chunk.js": "/authentication-firebase/static/js/2.898a3ed2.chunk.js",
+    "static/js/2.898a3ed2.chunk.js.map": "/authentication-firebase/static/js/2.898a3ed2.chunk.js.map",
+    "index.html": "/authentication-firebase/index.html",
+    "precache-manifest.ac1076e24521b3377fc6298032f27ba6.js": "/authentication-firebase/precache-manifest.ac1076e24521b3377fc6298032f27ba6.js",
+    "service-worker.js": "/authentication-firebase/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/authentication-firebase/static/css/2.11829350.chunk.css.map",
+    "static/js/2.898a3ed2.chunk.js.LICENSE.txt": "/authentication-firebase/static/js/2.898a3ed2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6471fef5.js",
+    "static/js/runtime-main.00d2ff98.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.826cb21f.chunk.js",
-    "static/js/main.c6ea0a0b.chunk.js"
+    "static/js/2.898a3ed2.chunk.js",
+    "static/js/main.f87b5f59.chunk.js"
   ]
 }
