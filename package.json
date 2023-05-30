@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://caioquirinomedeiros.github.io/Firebase-Authentication",
+  "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -22,13 +30,8 @@
     "react-scripts": "3.4.3",
     "typescript": "^4.0.3"
   },
-  "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.6"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -44,8 +47,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@types/react-router-dom": "^5.1.6"
-  }
+  } 
 }
